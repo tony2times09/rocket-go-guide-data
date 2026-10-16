@@ -423,7 +423,14 @@
   "Rock": ["Onix", "Cranidos", "Kabuto", "Shieldon", "Graveler"],
   "Steel": ["Alolan Sandshrew", "Aron", "Beldum"],
   "Water": ["Mudkip", "Krabby", "Tentacool"],
-  "Mixed Male": ["Bulbasaur", "Charmander", "Squirtle"],
+   "Mixed Male": ["Bulbasaur", "Charmander", "Squirtle"],
   "Mixed Female": ["Snorlax", "Lapras"]
+},
+"leaderRewards": {
+  "Sierra": ["Pancham"],
+  "Cliff": ["Cubone"],
+  "Arlo": ["Alolan Grimer"],
+  "Giovanni": ["Zekrom"]
+}
 }
 }
