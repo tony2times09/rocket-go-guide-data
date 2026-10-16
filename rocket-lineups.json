@@ -4,7 +4,7 @@
   "lastUpdated": "2026-10-16",
   "gruntLineups": {
     "Fire": {
-      "slot1": ["Charmander"],
+      "slot1": ["Litwick", "Ponyta", "Torchic"],
       "slot2": ["Magmar", "Blaziken", "Camerupt"],
       "slot3": ["Darmanitan", "Delphox", "Magmortar"]
     }
