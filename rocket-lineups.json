@@ -1,13 +1,404 @@
-
 {
-  "version": 2,
+  "version": 3,
   "lastUpdated": "2026-10-16",
   "gruntLineups": {
+    "Bug": {
+      "slot1": [
+        "Venonat",
+        "Weedle",
+        "Wimpod"
+      ],
+      "slot2": [
+        "Pinsir",
+        "Anorith",
+        "Dewpider"
+      ],
+      "slot3": [
+        "Scizor",
+        "Scolipede",
+        "Vikavolt"
+      ]
+    },
+    "Dark": {
+      "slot1": [
+        "Carvanha",
+        "Poochyena",
+        "Alolan Rattata"
+      ],
+      "slot2": [
+        "Sneasel",
+        "Houndour",
+        "Absol"
+      ],
+      "slot3": [
+        "Liepard",
+        "Hydreigon"
+      ]
+    },
+    "Dragon": {
+      "slot1": [
+        "Noibat",
+        "Deino",
+        "Axew"
+      ],
+      "slot2": [
+        "Alolan Exeggutor",
+        "Dragonair",
+        "Gabite"
+      ],
+      "slot3": [
+        "Dragonite",
+        "Garchomp",
+        "Salamence"
+      ]
+    },
+    "Electric": {
+      "slot1": [
+        "Voltorb",
+        "Shinx",
+        "Helioptile"
+      ],
+      "slot2": [
+        "Electabuzz",
+        "Magnemite",
+        "Alolan Geodude"
+      ],
+      "slot3": [
+        "Luxray",
+        "Ampharos",
+        "Galvantula"
+      ]
+    },
+    "Fairy": {
+      "slot1": [
+        "Ralts",
+        "Snubbull",
+        "Alolan Vulpix"
+      ],
+      "slot2": [
+        "Snubbull",
+        "Galarian Weezing",
+        "Kirlia"
+      ],
+      "slot3": [
+        "Alolan Ninetales",
+        "Galarian Weezing",
+        "Granbull"
+      ]
+    },
+    "Fighting": {
+      "slot1": [
+        "Timburr",
+        "Mankey",
+        "Makuhita"
+      ],
+      "slot2": [
+        "Hitmontop",
+        "Hitmonlee",
+        "Hitmonchan"
+      ],
+      "slot3": [
+        "Conkeldurr",
+        "Annihilape",
+        "Infernape"
+      ]
+    },
     "Fire": {
-      "slot1": ["Litwick", "Ponyta", "Torchic"],
-      "slot2": ["Magmar", "Blaziken", "Camerupt"],
-      "slot3": ["Darmanitan", "Delphox", "Magmortar"]
+      "slot1": [
+        "Litwick",
+        "Ponyta",
+        "Torchic"
+      ],
+      "slot2": [
+        "Magmar",
+        "Blaziken",
+        "Camerupt"
+      ],
+      "slot3": [
+        "Darmanitan",
+        "Delphox",
+        "Magmortar"
+      ]
+    },
+    "Flying": {
+      "slot1": [
+        "Taillow",
+        "Rookidee",
+        "Swablu"
+      ],
+      "slot2": [
+        "Scyther",
+        "Zubat",
+        "Gligar"
+      ],
+      "slot3": [
+        "Dragonite",
+        "Toucannon",
+        "Swanna"
+      ]
+    },
+    "Ghost": {
+      "slot1": [
+        "Duskull",
+        "Sandygast",
+        "Yamask"
+      ],
+      "slot2": [
+        "Dusclops",
+        "Sableye",
+        "Cofagrigus"
+      ],
+      "slot3": [
+        "Gengar",
+        "Froslass",
+        "Cofagrigus"
+      ]
+    },
+    "Grass": {
+      "slot1": [
+        "Phantump",
+        "Fomantis",
+        "Tangela"
+      ],
+      "slot2": [
+        "Lileep",
+        "Sceptile",
+        "Morelull"
+      ],
+      "slot3": [
+        "Chesnaught",
+        "Trevenant",
+        "Cradily"
+      ]
+    },
+    "Ground": {
+      "slot1": [
+        "Rhyhorn",
+        "Gligar",
+        "Trapinch"
+      ],
+      "slot2": [
+        "Gligar",
+        "Claydol",
+        "Vibrava"
+      ],
+      "slot3": [
+        "Golurk",
+        "Hippowdon",
+        "Flygon"
+      ]
+    },
+    "Ice": {
+      "slot1": [
+        "Seel",
+        "Delibird",
+        "Spheal"
+      ],
+      "slot2": [
+        "Sealeo",
+        "Froslass",
+        "Alolan Ninetales"
+      ],
+      "slot3": [
+        "Aurorus",
+        "Froslass",
+        "Glalie"
+      ]
+    },
+    "Normal": {
+      "slot1": [
+        "Teddiursa",
+        "Hoothoot",
+        "Porygon"
+      ],
+      "slot2": [
+        "Loudred",
+        "Stufful",
+        "Starly"
+      ],
+      "slot3": [
+        "Ursaring",
+        "Swellow",
+        "Kangaskhan"
+      ]
+    },
+    "Poison": {
+      "slot1": [
+        "Oddish",
+        "Zubat",
+        "Qwilfish"
+      ],
+      "slot2": [
+        "Galarian Weezing",
+        "Nidorino",
+        "Nidorina"
+      ],
+      "slot3": [
+        "Weezing",
+        "Toxicroak",
+        "Amoonguss"
+      ]
+    },
+    "Psychic": {
+      "slot1": [
+        "Wobbuffet",
+        "Ralts",
+        "Drowzee"
+      ],
+      "slot2": [
+        "Drowzee",
+        "Duosion",
+        "Wobbuffet"
+      ],
+      "slot3": [
+        "Gallade",
+        "Malamar",
+        "Reuniclus"
+      ]
+    },
+    "Rock": {
+      "slot1": [
+        "Onix",
+        "Kabuto",
+        "Cranidos"
+      ],
+      "slot2": [
+        "Shieldon",
+        "Graveler",
+        "Cranidos"
+      ],
+      "slot3": [
+        "Tyrantrum",
+        "Golem",
+        "Aurorus"
+      ]
+    },
+    "Steel": {
+      "slot1": [
+        "Alolan Sandshrew",
+        "Aron",
+        "Beldum"
+      ],
+      "slot2": [
+        "Lairon",
+        "Skarmory",
+        "Metang"
+      ],
+      "slot3": [
+        "Aggron",
+        "Alolan Sandslash",
+        "Probopass"
+      ]
+    },
+    "Water": {
+      "slot1": [
+        "Mudkip",
+        "Tentacool",
+        "Krabby"
+      ],
+      "slot2": [
+        "Dewpider",
+        "Swampert",
+        "Sharpedo"
+      ],
+      "slot3": [
+        "Walrein",
+        "Greninja",
+        "Tentacruel"
+      ]
+    },
+    "Mixed Male": {
+      "slot1": [
+        "Bulbasaur",
+        "Charmander",
+        "Squirtle"
+      ],
+      "slot2": [
+        "Ivysaur",
+        "Charmeleon",
+        "Wartortle"
+      ],
+      "slot3": [
+        "Venusaur",
+        "Charizard",
+        "Blastoise"
+      ]
+    },
+    "Mixed Female": {
+      "slot1": [
+        "Snorlax",
+        "Lapras"
+      ],
+      "slot2": [
+        "Poliwrath",
+        "Gardevoir",
+        "Snorlax"
+      ],
+      "slot3": [
+        "Gyarados",
+        "Dragonite",
+        "Snorlax"
+      ]
     }
   },
-  "leaderLineups": {}
+  "leaderLineups": {
+    "Sierra": {
+      "slot1": [
+        "Pancham"
+      ],
+      "slot2": [
+        "Blastoise",
+        "Flygon",
+        "Ferrothorn"
+      ],
+      "slot3": [
+        "Milotic",
+        "Houndoom",
+        "Steelix"
+      ]
+    },
+    "Cliff": {
+      "slot1": [
+        "Cubone"
+      ],
+      "slot2": [
+        "Snorlax",
+        "Golurk",
+        "Galarian Weezing"
+      ],
+      "slot3": [
+        "Tyranitar",
+        "Camerupt",
+        "Gallade"
+      ]
+    },
+    "Arlo": {
+      "slot1": [
+        "Alolan Grimer"
+      ],
+      "slot2": [
+        "Steelix",
+        "Golurk",
+        "Slowbro"
+      ],
+      "slot3": [
+        "Alakazam",
+        "Charizard",
+        "Scizor"
+      ]
+    },
+    "Giovanni": {
+      "slot1": [
+        "Persian"
+      ],
+      "slot2": [
+        "Kangaskhan",
+        "Rhyperior",
+        "Machamp"
+      ],
+      "slot3": [
+        "Zekrom"
+      ]
+    }
+  }
 }
