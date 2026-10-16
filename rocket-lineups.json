@@ -401,9 +401,10 @@
       ]
     }
   },
-"shadowRewards": {
-  "gruntRewards": {
-    "Fire": ["Charmander"]
-  },
-  "leaderRewards": {}
+  "shadowRewards": {
+    "gruntRewards": {
+      "Fire": ["Charmander"]
+    },
+    "leaderRewards": {}
+  }
 }
