@@ -400,5 +400,9 @@
         "Zekrom"
       ]
     }
+  },
+  "shadowRewards": {
+    "gruntRewards": {},
+    "leaderRewards": {}
   }
 }
