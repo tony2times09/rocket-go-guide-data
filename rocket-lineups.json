@@ -401,8 +401,18 @@
       ]
     }
   },
+
 "shadowRewards": {
-  "gruntRewards": {},
-  "leaderRewards": {}
-}
+  "gruntRewards": {
+    "Bug": ["Weedle", "Wimpod", "Venonat", "Pinsir", "Dewpider", "Anorith"],
+    "Fire": ["Ponyta", "Torchic", "Litwick"],
+    "Ghost": ["Duskull", "Sandygast", "Yamask"],
+    "Grass": ["Phantump", "Fomantis", "Tangela"]
+  },
+  "leaderRewards": {
+    "Sierra": ["Pancham"],
+    "Cliff": ["Cubone"],
+    "Arlo": ["Alolan Grimer"],
+    "Giovanni": ["Zekrom"]
+  }
 }
