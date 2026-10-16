@@ -401,9 +401,8 @@
       ]
     }
   },
-  "shadowRewards": {
-    "gruntRewards": {},
-    },
-    "leaderRewards": {}
-  }
+"shadowRewards": {
+  "gruntRewards": {},
+  "leaderRewards": {}
+}
 }
