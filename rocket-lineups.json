@@ -403,17 +403,26 @@
   },
 
 "shadowRewards": {
-  "gruntRewards": {
-    "Bug": ["Weedle", "Wimpod", "Venonat", "Pinsir", "Dewpider", "Anorith"],
-    "Fire": ["Ponyta", "Torchic", "Litwick"],
-    "Ghost": ["Duskull", "Sandygast", "Yamask"],
-    "Grass": ["Phantump", "Fomantis", "Tangela"]
-  },
-  "leaderRewards": {
-    "Sierra": ["Pancham"],
-    "Cliff": ["Cubone"],
-    "Arlo": ["Alolan Grimer"],
-    "Giovanni": ["Zekrom"]
-  }
-}
-}
+  
+"gruntRewards": {
+  "Bug": ["Weedle", "Wimpod", "Venonat", "Pinsir", "Dewpider", "Anorith"],
+  "Dark": ["Alolan Rattata", "Poochyena", "Carvanha", "Absol", "Sneasel", "Houndour"],
+  "Dragon": ["Axew", "Deino", "Noibat"],
+  "Electric": ["Helioptile", "Voltorb", "Shinx", "Electabuzz", "Alolan Geodude", "Magnemite"],
+  "Fairy": ["Snubbull", "Ralts", "Alolan Vulpix", "Kirlia", "Galarian Weezing"],
+  "Fighting": ["Timburr", "Mankey", "Makuhita", "Hitmonchan", "Hitmonlee", "Hitmontop"],
+  "Fire": ["Ponyta", "Torchic", "Litwick"],
+  "Flying": ["Swablu", "Rookidee", "Taillow", "Zubat", "Gligar", "Scyther"],
+  "Ghost": ["Duskull", "Sandygast", "Yamask"],
+  "Grass": ["Phantump", "Fomantis", "Tangela"],
+  "Ground": ["Gligar", "Rhyhorn", "Trapinch", "Claydol", "Vibrava"],
+  "Ice": ["Seel", "Delibird", "Spheal"],
+  "Normal": ["Teddiursa", "Hoothoot", "Porygon", "Stufful", "Starly", "Loudred"],
+  "Poison": ["Qwilfish", "Oddish", "Zubat", "Nidorina", "Nidorino", "Galarian Weezing"],
+  "Psychic": ["Drowzee", "Wobbuffet", "Ralts", "Duosion"],
+  "Rock": ["Onix", "Cranidos", "Kabuto", "Shieldon", "Graveler"],
+  "Steel": ["Alolan Sandshrew", "Aron", "Beldum"],
+  "Water": ["Mudkip", "Krabby", "Tentacool"],
+  "Mixed Male": ["Bulbasaur", "Charmander", "Squirtle"],
+  "Mixed Female": ["Snorlax", "Lapras"]
+},
