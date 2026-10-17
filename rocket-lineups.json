@@ -431,6 +431,25 @@
   "Cliff": ["Cubone"],
   "Arlo": ["Alolan Grimer"],
   "Giovanni": ["Zekrom"]
+},
+
+"shinyEligible": [
+  "Weedle",
+  "Venonat",
+  "Pinsir",
+  "Anorith",
+  "Ponyta",
+  "Torchic",
+  "Litwick",
+  "Duskull",
+  "Yamask",
+  "Tangela",
+  "Phantump",
+  "Pancham",
+  "Cubone",
+  "Alolan Grimer"
+]
+
 }
 }
 }
